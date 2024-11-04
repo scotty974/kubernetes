@@ -1,0 +1,36 @@
+{
+  "tunnels": [
+    {
+      "name": "command_line",
+      "ID": "4475d45ba5092af308626bd9d448934b",
+      "uri": "/api/tunnels/command_line",
+      "public_url": "https://1b30-37-70-218-118.ngrok-free.app",
+      "proto": "https",
+      "config": { "addr": "http://localhost:8080", "inspect": true },
+      "metrics": {
+        "conns": {
+          "count": 0,
+          "gauge": 0,
+          "rate1": 0,
+          "rate5": 0,
+          "rate15": 0,
+          "p50": 0,
+          "p90": 0,
+          "p95": 0,
+          "p99": 0
+        },
+        "http": {
+          "count": 0,
+          "rate1": 0,
+          "rate5": 0,
+          "rate15": 0,
+          "p50": 0,
+          "p90": 0,
+          "p95": 0,
+          "p99": 0
+        }
+      }
+    }
+  ],
+  "uri": "/api/tunnels"
+}
