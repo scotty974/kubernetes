@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: "https://github.com/votre-utilisateur/votre-repo.git"  # Remplace par ton dépôt Git
+    repoURL: "https://github.com/scotty974/kubernetes"  # Remplace par ton dépôt Git
     targetRevision: main  # Branche de ton dépôt Git
     path: "."  # Chemin dans le dépôt Git vers les manifests
   destination:
